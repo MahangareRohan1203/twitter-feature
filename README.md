@@ -11,7 +11,8 @@ Fullstack
 ## Deplolyed App
 
 Frontend: https://features-twitter.netlify.app/
-Backend: https://deployed-site.whatever
+
+Backend: 
 
 ## Video Walkthrough of the project
 
@@ -53,11 +54,6 @@ twitter.host = twitter135.p.rapidapi.com
 ```
 
 Build and run the application.
-
-
-## Usage
-
-Include screenshots as necessary.
 
 ## Credentials
 
