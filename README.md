@@ -13,14 +13,8 @@ Backend: https://deployed-site.whatever
 ## Video Walkthrough of the project
 
 
-<iframe id="ytplayer" type="text/html" width="720" height="405"
-src="https://www.youtube.com/embed/NPqJOf_uaXY?si=hYzJCsIDyfOaAyAt"
-frameborder="0" allowfullscreen>
-
-Attach a very short video walkthrough of all of the features [ 1 - 3 minutes ]
 
 ## Video Walkthrough of the codebase
-Attach a very short video walkthrough of codebase [ 1 - 5 minutes ]
 
 ## Features
 - Search users by name
