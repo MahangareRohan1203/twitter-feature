@@ -12,7 +12,7 @@ Fullstack
 
 Frontend: https://features-twitter.netlify.app/
 
-Backend: 
+Backend: Not Deployed
 
 ## Video Walkthrough of the project
 
