@@ -12,7 +12,10 @@ Fullstack
 
 Frontend: https://features-twitter.netlify.app/
 
-Backend: Not Deployed
+Backend: https://twitter-feature-production.up.railway.app/
+
+Note: There can be chance that my rapid-api limit exceeds in such case you will not able to fetch data. 
+
 
 ## Video Walkthrough of the project
 
@@ -59,9 +62,13 @@ Build and run the application.
 
 - Add random clientId and clientSecret in Header while calling rest api endpoints.
 
-## APIs Used
+## Third Party APIs Used
 
 https://rapidapi.com/Glavier/api/twitter135
+
+For Finding Users : https://twitter135.p.rapidapi.com/AutoComplete/
+
+For Users Tweet : https://twitter135.p.rapidapi.com/v2/UserTweets/
 
 ## API Endpoints Created
 
@@ -75,3 +82,5 @@ GET /users/{userId}/tweets - retrieve all the tweets of a user
 - Spring Boot
 - React.js
 - RapidAPI
+
+## [Frontend Repository Link ](https://github.com/MahangareRohan1203/twitter-frontend)
