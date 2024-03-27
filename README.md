@@ -10,7 +10,7 @@ Fullstack
 
 ## Deplolyed App
 
-Frontend: https://features-twitter.netlify.app/
+Frontend: https://twitter-rest-api.netlify.app/
 
 Backend: https://twitter-feature-production.up.railway.app/
 
